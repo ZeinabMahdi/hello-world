@@ -1,0 +1,32 @@
+Last login: Thu Oct 28 16:42:09 on ttys002
+zeinabibrahim@Zeinabs-MacBook-Air-2 hello-world % this is a readme file that will be added to the 'hello-world' folder I created in the last challenge. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
